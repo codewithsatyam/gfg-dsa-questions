@@ -6,10 +6,8 @@ using namespace std;
 class Solution{   
 public:
     int multiplication(int A, int B){
-        int ans=1;
-        ans=A*B;
-        
-    return ans;
+     
+    return A*B;
     }
 };
 
